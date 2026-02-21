@@ -52,7 +52,7 @@ export default function AxosPage() {
 
       <main>
         {/* Hero */}
-        <section style={{ backgroundColor: '#f4f4f4' }}>
+        <section style={{ backgroundColor: '#ffffff' }}>
           <div className="max-w-[1200px] mx-auto px-4 py-16">
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
               <div>
